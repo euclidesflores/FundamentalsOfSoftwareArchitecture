@@ -76,4 +76,17 @@ For an architect it is more benefical to know that five solutions exist for a pa
 * Do frequent code review
 
 
+# Modularity
+
+1. Meaning of connascence
+>Two components are connascence if a change in one would require the other to be modified in order to maintain the overall correctness of the system
+> -- Meilir Page-Jones
+There are two types of connascence: static and dynamic
+
+2. Types of connascence:
+* **Static:** Refers to the source code level coupling and is discoverable via static code analysis.
+* **Dynamic:** Concerning runtime behavior.
+
+3. Differences between Static and Dynamic connascence
+
 
