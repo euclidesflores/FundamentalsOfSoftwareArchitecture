@@ -70,8 +70,10 @@ Example: the java programmer does not know what other frameworks, tools, librari
 For an architect it is more benefical to know that five solutions exist for a particular problem that to have singular expertise in only one. Architects must make decisions that match capabilities to technical constraints.
 
 4. Ways of maintaining your technical depth
-
-
+* Do frequent proof of concepts
+* Tackle some of the technical debt stories or architecture stories
+* Work on bug fixes
+* Do frequent code review
 
 
 
