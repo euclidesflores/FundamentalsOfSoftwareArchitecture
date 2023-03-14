@@ -165,8 +165,24 @@ Agility, testability and deployability.
 
 Scalability measures the performance of concurrent users, elasticity measures burst of traffic.
 
+5. A company you are working for is about to undergo several major acquisitions to increase its customer base. Which architectural characteristics should you be worried about?
+* Interoperability
+* Scalability
+* Adaptability
+* Extensibility
 
+# Measuring and Governing Architecture Characteristics
 
+1. Importance of the cyclomatic complexity (CC) metric
+
+Cyclomatic complexity is a code-level metric that can help us to measure the complexity of code. Overlay complex code can represents a code smell. Teams need to pay special attention to the gradually growing complexity, that complexity will dominate the code base.
+
+2. Architecture fitness function
+
+A fitness function is an object function used to assess how close the output comes to achieving the aim. Fitness functions are not something new that architects and developers can download, but they are any mechanism that can help the architect to address modularity:
+
+* Detect component cycles (cyclic dependencies)
+* Measure the distance from the main sequence
 
 
 
